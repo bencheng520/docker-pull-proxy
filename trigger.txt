@@ -1,1 +1,1 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
+pch18/baota:clear crpi-sk6clzlmmo6isf61.cn-hangzhou.personal.cr.aliyuncs.com/vincent520/baota:clear
