@@ -19,7 +19,7 @@ jobs:
       - name: Login to GitHub Container Registry
         uses: docker/login-action@v3
         with:
-          registry: registry.cn-hangzhou.aliyuncs.com
+          registry: crpi-sk6clzlmmo6isf61.cn-hangzhou.personal.cr.aliyuncs.com
           username: bencheng520
           password: Chb202503@
 
